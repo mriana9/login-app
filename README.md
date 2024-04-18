@@ -1,5 +1,5 @@
 # React + Vite
-,ش
+
 <a href="https://6620675403f27dcf371e04c6--resplendent-druid-754181.netlify.app/">Preview</a>
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
